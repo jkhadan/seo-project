@@ -7,7 +7,7 @@ This is a program that gives you useful insight into a stock
 * SQLAlchemy
 * Requests
 
-To install, run pip install {name of library}
+To install, run pip install --requirements
 
 ## Additional Requirements
 * Market Stack API Key
